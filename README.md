@@ -3,7 +3,9 @@
 📧 joeingerman32@gmail.com
 
 
-![instagram](https://img.shields.io/badge/-instagram-orange?logo=instagram&logoColor=white) [Instagram](https://www.instagram.com/joejoejoejoe_97/) 
+![instagram](https://img.shields.io/badge/-instagram-orange?logo=instagram&logoColor=white) [Link](https://www.instagram.com/joejoejoejoe_97/) 
+
+![github.io](https://img.shields.io/badge/-github.io-black?logo=github.io&logoColor=white) [Link](https://jun-yub-kim.github.io/)
 
 ---
 
