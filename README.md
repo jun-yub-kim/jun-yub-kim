@@ -9,22 +9,25 @@ jun-yub-kim/jun-yub-kim is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+
+
 > React 프론트엔드 개발, Go 백엔드 개발 등에 숙련된 10년 차 소프트웨어 엔지니어입니다. QA로 커리어를 시작했기 때문에 품질에 주의를 많이 기울이는 편입니다. 지금은 바르셀로나에 있습니다 🌊
 > 
+> 
 
-# ☎️ 연락처 정보
+# ☎️ Contact
 
-📧 이메일 주소
+📧 joeingerman32@gmail.com
 
-🐦 Twitter 계정 
+🐦 [Instagram](https://www.instagram.com/joejoejoejoe_97/) 
 
 ---
 
-# **👩🏻‍💻** 경력
+# **👩🏻‍💻** Work experience
 
-## 소프트웨어 엔지니어 **II**
+## Software Development
 
-**K사***, 서울시 강남구 – (2020년 12월 - 현재)*
+**Like Lion***, Gangnam, Seoul – (2021)*
 
 - API 통합과 개발자 툴을 담당하는 팀의 풀스택 엔지니어로 K 플랫폼의 개발자 경험을 정의하고 개선하는 일을 담당합니다.
 - 초기에는 프론트엔드에 중점을 두고 React, Redux, Styled Components, Jest 등을 사용해 OAuth 구현, 토큰 관리, Webhook을 사용한 프론트엔드 개선을 리드했습니다.
@@ -32,35 +35,19 @@ You can click the Preview link to take a look at your changes.
 - 팀의 주니어 개발자들을 위한 코치로서 페어/몹 프로그래밍 세션을 진행하고, 다른 시니어 엔지니어들과 함께 로드맵 구축, 기능 우선순위 정의를 진행했습니다.
 - 기술 분야에서의 다양성과 여성(Diversity and Women in Tech) 이니셔티브에 적극적으로 참여하면서 정기적인 전사 미팅과 다양한 제안을 추진했습니다.
 
-## QA 자동화 엔지니어
+## Capstone Design
 
-**J사***, 서울시 강남구  – (2018년 5월 - 2020년 10월)*
+**Rainbow Robotics Corp***, Daejeon, Korea  – (2022. March - june)*
 
-- Node.js, Mocha, Chai와 Behat에서는 PHP를 사용해 결제 API를 포함한 회사의 핵심 API를 테스트할 수 있는 자동화 인수 테스트, 컨트랙트 테스트를 빌드했습니다.
-- API 설계와 로직의 일관성을 유지하기 위해 새로운 기능 개발을 검토하고 검증했습니다.
+- Rainbow Robotics사의 RB5 모델을 이용하여, Sorting Robot 프로그램을 개발하였습니다.
+- Catia / Arduino를 이용하여, 직접 Robotic Gripper을 설계하고 작동하는 프로그램을 개발하였습니다.
 
-## 소프트웨어 테스터
+## SEA:ME Pilot
 
-**C사***, 대전광역시 유성구 – (2016년 8월 - 2018년 4월)*
+**Volkswagen group***, Wolfsburg, Germany – (2022. September - )*
 
-- 선적 컨테이너 터미널 및 물류 관리 웹 앱의 기능 테스트를 계획하고 실행했습니다.
-- 새로운 클라이언트 요구 사항을 평가하고, 사용 사례(use case)를 정의했으며, 로컬 테스트 환경을 유지보수했습니다.
-
-## **QA 애널리스트**
-
-**B사***, 서울시 강남구 – (2014년 4월 - 2016년 6월)*
-
-- 광고대행사 B에서 다양하고 복잡한 프로젝트의 QA를 혼자 수행했습니다.
-- 여러 자동차 제조사 고객들의 웹사이트와 앱 내의 툴, 기능, 사용자 경험 플로우 등을 검증하고 테스트를 수행했습니다.
-- PM/개발자 팀과 원격으로 커뮤니케이션하고, 업무별 우선순위 지정과 견적 작성 등을 담당했습니다.
-
-## **QC 애널리스트**
-
-**A사***, 경기도 판교 – (2012년 4월 - 2014년 4월)*
-
-- A사에서 개발한 비디오 게임의 탐색 테스트와 회귀 테스트를 수행했습니다.
-- 테스트 케이스를 정의하고 우선순위를 정해 실행했습니다.
-- 프로젝트 단계별 포커스를 정의하고 복잡한 반복 수행 지침을 개선했습니다.
+- Volkswagen의 미래 모빌리티 소프트웨어 인재를 양성하기 위한 프로그램 'SEA:ME' 에서 파일럿으로 활동하고있습니다. SEA:ME 커리큘럼을 가장 먼저 테스트해보고, 후배 SEA:ME 참가자들을 위한 교육지침을 작성하고 있습니다.
+- QT, Yocto를 이용하여 직접 Digital instrument cluster, Embedded OS를 개발합니다.
 
 ---
 
@@ -68,11 +55,11 @@ You can click the Preview link to take a look at your changes.
 
 ## 💻 IT
 
-### Javascript
+### Django
 
 6년 이상 React와 Redux를 사용해 프론트엔드 개발, Node, Express, Hapi.js로 백엔드 API 개발, Mocha와 Jest로 자동화 테스트도 진행했습니다.
 
-### Golang
+### QT
 
 최근에 배우기 시작했고 어렵지만 재미를 느끼고 있습니다. 아직 능숙하지는 않지만 직접 몇몇 기능을 만들고 업데이트해본 경험이 있습니다.
 
@@ -112,9 +99,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-# 📚 학력
+# 📚 Academic
 
-## **컴퓨터 공학 학사**
+## **Department of automobile and IT convergence / Kookmin University**
 
 2012년 졸업
 
