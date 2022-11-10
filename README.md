@@ -49,6 +49,8 @@
 ![QT](https://img.shields.io/badge/-QT-orange?logo=QT&logoColor=white)
 ![Yocto](https://img.shields.io/badge/-Yocto-skyblue?logo=Yocto&logoColor=white)
 ![Poky](https://img.shields.io/badge/-Poky-green?logo=Poky&logoColor=white)
+![Can](https://img.shields.io/badge/-Can-orange?logo=Can&logoColor=white)
+![D-bus](https://img.shields.io/badge/-dbus-green?logo=dbus&logoColor=white)
 
 - Currently working as a pilot of 'SEA:ME', a program for nurturing mobility software engineer of Volskwagen. I'm testing the SEA:ME curriculum and writing instructional guidelines for next junior SEA:ME participants.
 - Directly develop Digital instrument cluster and Embedded OS using QT and Yocto.
