@@ -38,7 +38,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-green?logo=Arduino&logoColor=white)
 
 **Rainbow Robotics Corp**, Daejeon, Korea  – (2022. March - june)
-//ros
+
 - Structed 'Soring Robot' Program using RB5, from Rainbow Robotics Corp.
 - Designed, modeled, Operated Robotic Gripper with my own using Catia, Arduino.
 
