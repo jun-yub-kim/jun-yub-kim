@@ -39,7 +39,7 @@
 
 **Rainbow Robotics Corp**, Daejeon, Korea  – (2022. March - june)
 
-- Structed 'Soring Robot' Program using RB5, from Rainbow Robotics Corp.
+- Structed 'Sorting Robot' Program using RB5, from Rainbow Robotics Corp.
 - Designed, modeled, Operated Robotic Gripper with my own using Catia, Arduino.
 
 ## SEA:ME Pilot
