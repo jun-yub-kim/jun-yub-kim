@@ -10,8 +10,10 @@
 
 ## Software Development
 
-**Like Lion**, Gangnam, Seoul – (2021)
+![django](http://img.shields.io/badge/-django-darkblue?logo=django&logoColor=white)
+![html](http://img.shields.io/badge/-html-yellow?logo=html&logoColor=black)
 
+**Like Lion**, Gangnam, Seoul – (2021)
 - Active at 'Like Lion', a startup, and also is united as an academic club of each university.
 - At first I focused on front-end using Html and made my own hompage. After that, structed Web server.
 - Structed community site [It's okay to be cool](https://jun-yub-kim.github.io/It's_okay.html)
@@ -19,11 +21,18 @@
 
 **Mobile Programming**,  – (2021, 2nd semester)
 
+![java](https://img.shields.io/badge/-java-blue?logo=java&logoColor=white)
+![android_badge](https://img.shields.io/badge/-Android-green?logo=Android&logoColor=black)
+
 - Made own application using Android studio [My Application](https://github.com/jun-yub-kim/Myapplication)
 - Structed public purchasing application [Linco](https://jun-yub-kim.github.io/Linco.html)
 
 
 ## Capstone Design
+
+![ros](http://img.shields.io/badge/-ros-blue?logo=ros&logoColor=white)
+![c++](https://img.shields.io/badge/-C++-blue?logo=C++&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-green?logo=Arduino&logoColor=white)
 
 **Rainbow Robotics Corp**, Daejeon, Korea  – (2022. March - june)
 //ros
@@ -33,6 +42,10 @@
 ## SEA:ME Pilot
 
 **Volkswagen group**, Wolfsburg, Germany – (2022. September - )
+
+![QT](https://img.shields.io/badge/-QT-orange?logo=QT&logoColor=white)
+![Yocto](https://img.shields.io/badge/-Yocto-skyblue?logo=Yocto&logoColor=white)
+![Poky](https://img.shields.io/badge/-Poky-green?logo=Poky&logoColor=white)
 
 - Currently working as a pilot of 'SEA:ME', a program for nurturing mobility software engineer of Volskwagen. I'm testing the SEA:ME curriculum and writing instructional guidelines for next junior SEA:ME participants.
 - Directly develop Digital instrument cluster and Embedded OS using QT and Yocto.
