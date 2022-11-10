@@ -1,3 +1,66 @@
+# ☎️ Contact
+
+📧 joeingerman32@gmail.com
+
+🐦 [Instagram](https://www.instagram.com/joejoejoejoe_97/) 
+
+---
+
+# **👩🏻‍💻** Work experience
+
+## Software Development
+
+**Like Lion**, Gangnam, Seoul – (2021)
+
+- Active at 'Like Lion', a startup, and also is united as an academic club of each university.
+- At first I focused on front-end using Html and made my own hompage. After that, structed Web server.
+- Structed community site [It's okay to be cool] (https://jun-yub-kim.github.io/It's_okay.html)
+
+
+**Mobile Programming**,  – (2021, 2nd semester)
+
+- Made own application using Android studio [My Application] (https://github.com/jun-yub-kim/Myapplication)
+- Structed public purchasing application [Linco] (https://jun-yub-kim.github.io/Linco.html)
+
+
+## Capstone Design
+
+**Rainbow Robotics Corp**, Daejeon, Korea  – (2022. March - june)
+//ros
+- Structed 'Soring Robot' Program using RB5, from Rainbow Robotics Corp.
+- Designed, modeled, Operated Robotic Gripper with my own using Catia, Arduino.
+
+## SEA:ME Pilot
+
+**Volkswagen group**, Wolfsburg, Germany – (2022. September - )
+
+- Currently working as a pilot of 'SEA:ME', a program for nurturing mobility software engineer of Volskwagen. I'm testing the SEA:ME curriculum and writing instructional guidelines for next junior SEA:ME participants.
+- Directly develop Digital instrument cluster and Embedded OS using QT and Yocto.
+
+---
+
+## 🗣 Language
+
+### English 🇺🇸
+
+Advanced - C1
+
+### Korean 🇰🇷
+
+Native
+
+---
+
+# 📚 Academic
+
+## **Department of automobile and IT convergence**
+
+2017
+
+Kookmin University - Seoul
+
+
+
 <details>
 <summary>Korean</summary>
   
