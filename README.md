@@ -1,20 +1,3 @@
-- 👋 Hi, I’m @jun-yub-kim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-jun-yub-kim/jun-yub-kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-> React 프론트엔드 개발, Go 백엔드 개발 등에 숙련된 10년 차 소프트웨어 엔지니어입니다. QA로 커리어를 시작했기 때문에 품질에 주의를 많이 기울이는 편입니다. 지금은 바르셀로나에 있습니다 🌊
-> 
-> 
-
 # ☎️ Contact
 
 📧 joeingerman32@gmail.com
@@ -27,26 +10,23 @@ You can click the Preview link to take a look at your changes.
 
 ## Software Development
 
-**Like Lion***, Gangnam, Seoul – (2021)*
+**Like Lion**, Gangnam, Seoul – (2021)
 
-- API 통합과 개발자 툴을 담당하는 팀의 풀스택 엔지니어로 K 플랫폼의 개발자 경험을 정의하고 개선하는 일을 담당합니다.
-- 초기에는 프론트엔드에 중점을 두고 React, Redux, Styled Components, Jest 등을 사용해 OAuth 구현, 토큰 관리, Webhook을 사용한 프론트엔드 개선을 리드했습니다.
-- 백엔드에서 PostgreSQL, Node.js(Express/Hapi), GoLang으로 Webhook과 API 통합 개발에 참여했습니다.
-- 팀의 주니어 개발자들을 위한 코치로서 페어/몹 프로그래밍 세션을 진행하고, 다른 시니어 엔지니어들과 함께 로드맵 구축, 기능 우선순위 정의를 진행했습니다.
-- 기술 분야에서의 다양성과 여성(Diversity and Women in Tech) 이니셔티브에 적극적으로 참여하면서 정기적인 전사 미팅과 다양한 제안을 추진했습니다.
+- 스타트업이자, 각 대학 학술동아리로 연합된 '멋쟁이 사자처럼'에서 활동하였습니다.
+- 초기에는 Html을 이용한 프론트엔드에 중점을 두고 개인홈페이지를 만들었고, 이후 Django로 웹서버 구현하였습니다.
 
 ## Capstone Design
 
-**Rainbow Robotics Corp***, Daejeon, Korea  – (2022. March - june)*
+**Rainbow Robotics Corp**, Daejeon, Korea  – (2022. March - june)
 
 - Rainbow Robotics사의 RB5 모델을 이용하여, Sorting Robot 프로그램을 개발하였습니다.
 - Catia / Arduino를 이용하여, 직접 Robotic Gripper을 설계하고 작동하는 프로그램을 개발하였습니다.
 
 ## SEA:ME Pilot
 
-**Volkswagen group***, Wolfsburg, Germany – (2022. September - )*
+**Volkswagen group**, Wolfsburg, Germany – (2022. September - )
 
-- Volkswagen의 미래 모빌리티 소프트웨어 인재를 양성하기 위한 프로그램 'SEA:ME' 에서 파일럿으로 활동하고있습니다. SEA:ME 커리큘럼을 가장 먼저 테스트해보고, 후배 SEA:ME 참가자들을 위한 교육지침을 작성하고 있습니다.
+- Volkswagen의 미래 모빌리티 소프트웨어 인재를 양성하기 위한 프로그램 'SEA:ME' 에서 파일럿으로 활동하고있습니다. SEA:ME 커리큘럼을 테스트하고, 후배 SEA:ME 참가자들을 위한 교육지침을 작성하고 있습니다.
 - QT, Yocto를 이용하여 직접 Digital instrument cluster, Embedded OS를 개발합니다.
 
 ---
@@ -103,6 +83,6 @@ You can click the Preview link to take a look at your changes.
 
 ## **Department of automobile and IT convergence / Kookmin University**
 
-2012년 졸업
+2017
 
 ㅇㅇ대학교 - 서울특별시
