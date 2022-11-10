@@ -1,3 +1,5 @@
+<details>
+<summary>Korean</summary>
 # ☎️ Contact
 
 📧 joeingerman32@gmail.com
@@ -85,4 +87,7 @@
 
 2017
 
-ㅇㅇ대학교 - 서울특별시
+ㅇㅇ대학교 - 서울특별시  
+  
+
+</details>
