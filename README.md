@@ -14,13 +14,13 @@
 
 - Active at 'Like Lion', a startup, and also is united as an academic club of each university.
 - At first I focused on front-end using Html and made my own hompage. After that, structed Web server.
-- Structed community site [It's okay to be cool] (https://jun-yub-kim.github.io/It's_okay.html)
+- Structed community site [It's okay to be cool](https://jun-yub-kim.github.io/It's_okay.html)
 
 
 **Mobile Programming**,  – (2021, 2nd semester)
 
-- Made own application using Android studio [My Application] (https://github.com/jun-yub-kim/Myapplication)
-- Structed public purchasing application [Linco] (https://jun-yub-kim.github.io/Linco.html)
+- Made own application using Android studio [My Application](https://github.com/jun-yub-kim/Myapplication)
+- Structed public purchasing application [Linco](https://jun-yub-kim.github.io/Linco.html)
 
 
 ## Capstone Design
