@@ -2,7 +2,8 @@
 
 📧 joeingerman32@gmail.com
 
-🐦 [Instagram](https://www.instagram.com/joejoejoejoe_97/) 
+
+![instagram](https://img.shields.io/badge/-instagram-orange?logo=instagram&logoColor=white) [Instagram](https://www.instagram.com/joejoejoejoe_97/) 
 
 ---
 
