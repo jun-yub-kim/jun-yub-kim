@@ -13,10 +13,12 @@
 
 ## Software Development
 
+
+**Like Lion**, Gangnam, Seoul – (2021)
+
 ![django](http://img.shields.io/badge/-django-darkblue?logo=django&logoColor=white)
 ![html](http://img.shields.io/badge/-html-yellow?logo=html&logoColor=black)
 
-**Like Lion**, Gangnam, Seoul – (2021)
 - Active at 'Like Lion', a startup, and also is united as an academic club of each university.
 - At first I focused on front-end using Html and made my own hompage. After that, structed Web server.
 - Structed community site [It's okay to be cool](https://jun-yub-kim.github.io/It's_okay.html)
