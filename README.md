@@ -21,7 +21,7 @@
 
 - Active at 'Like Lion', a startup, and also is united as an academic club of each university.
 - At first I focused on front-end using Html and made my own hompage. After that, structed Web server.
-- Structed community site [It's okay to be cool](https://jun-yub-kim.github.io/It's_okay.html)
+- Structed community site [It's okay to be cool](https://jun-yub-kim.github.io/My_work/It's_okay.html)
 
 
 **Mobile Programming**,  – (2021, 2nd semester)
@@ -30,7 +30,7 @@
 ![android_badge](https://img.shields.io/badge/-Android-green?logo=Android&logoColor=black)
 
 - Made own application using Android studio [My Application](https://github.com/jun-yub-kim/Myapplication)
-- Structed public purchasing application [Linco](https://jun-yub-kim.github.io/Linco.html)
+- Structed public purchasing application [Linco](https://jun-yub-kim.github.io/My_work/Linco.html)
 
 
 ## Capstone Design
@@ -42,7 +42,7 @@
 **Rainbow Robotics Corp**, Daejeon, Korea  – (2022. March - june)
 
 - Structed 'Sorting Robot' Program using RB5, from Rainbow Robotics Corp.
-- Designed, modeled, Operated Robotic Gripper with my own using Catia, Arduino.
+- Designed, modeled, Operated Robotic Gripper with my own using Catia, Arduino. [Media](https://jun-yub-kim.github.io/My_work/Capstone.html)
 
 ## SEA:ME Pilot
 
