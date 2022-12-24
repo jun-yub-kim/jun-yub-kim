@@ -1,6 +1,5 @@
 # Hello! I'm studying mobility software engineering!
 
----
 
 # **👩🏻‍💻** Work experience
 
