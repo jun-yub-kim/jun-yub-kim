@@ -15,7 +15,7 @@
 ![django](http://img.shields.io/badge/-django-darkblue?logo=django&logoColor=white)
 ![html](http://img.shields.io/badge/-html-yellow?logo=html&logoColor=black)
 
-- Member of 'Like Lion', a startup, and also united by academic clubs of each university.
+- Member of 'Like Lion', a startup, and also union united by academic clubs of each university.
 - At first I focused on front-end using Html and made my own hompage. After that, structed Web server.
 - Structed community site [It's okay to be cool](https://jun-yub-kim.github.io/My_work/It's_okay.html)
 
