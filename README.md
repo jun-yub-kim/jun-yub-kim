@@ -1,4 +1,4 @@
-<center>Hello! I'm studying mobility software engineering!</center>  
+<div style="text-align: center"> Hello! I'm studying mobility software engineering! </div>
 
 # **👩🏻‍💻** Work experience
 
