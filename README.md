@@ -7,9 +7,7 @@
 <br>
 <br>
 
-# **👩🏻‍💻** Work experience
-
-## Software Development
+## **👩🏻‍💻** Work experience
 
 
 **Like Lion**, Gangnam, Seoul – (2021)
