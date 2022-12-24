@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Welcome to my *Code Laboratory!* 
+# ✨ Hello! I'm studying *mobility software enginnering!* 
 
 </div>
 <br>
